@@ -14,7 +14,7 @@ And Output it to the Terminal.
 ### Credits
  => **[mgp25](https://github.com/mgp25)** for the API LIBRARY
  
- <b>SUBSCRIBE PhotoLooz  www.youtbe.com/PhotoLooz </b>
+ <b>SUBSCRIBE PhotoLooz  www.youtube.com/PhotoLooz </b>
 
 ### THANKS TO
  => Our Promoters and Subscribers
