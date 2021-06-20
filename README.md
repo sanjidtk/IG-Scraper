@@ -10,8 +10,11 @@ And Output it to the Terminal.
 
 • **[KHALID SHA](https://instagram.com/khalid._.sha)** (CJ)
 
+• **[MOHSANJID](https://instagram.com/mohsanjid)** (PhotoLooz)
 ### Credits
  => **[mgp25](https://github.com/mgp25)** for the API LIBRARY
+ 
+ <b>SUBSCRIBE PhotoLooz  www.youtbe.com/PhotoLooz </b>
 
 ### THANKS TO
  => Our Promoters and Subscribers
@@ -24,11 +27,17 @@ apt-get install php -y
 ```
  [+] Clone this Repo
 ```
-git clone https://github.com/cyberjeevi/IG-Scraper.git
+git clone https://github.com/sanjidtk/IG-aakri.git
+
+cd IG-aakri
 ```
  [+] Inside Repo Unzip 'vendor.zip'
 ```
 unzip vendor.zip
+```
+#### Run the Login
+```
+php login.php
 ```
 #### Run the Tool
 ```
